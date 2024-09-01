@@ -1,9 +1,8 @@
-<h1>Hi 👋, I'm Hamza </h1>
+<h1>Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm Hamza </h1>
 
-<div>
-  <h3>🌱 I’m currently learning **WEB Development Full-Stack**</h3>
-</div>
- 
+
+<h3>🌱 I’m currently learning WEB Development Full-Stack</h3>
+<br>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
